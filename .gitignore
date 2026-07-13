@@ -1,1 +1,12 @@
-.csv
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+models/*.pkl
+
+*.csv
+*.xlsx
